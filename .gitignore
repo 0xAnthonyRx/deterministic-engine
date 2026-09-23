@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+
+# Secrets & Environment variables
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
